@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="addchoco">Añadir Chocolate?</string>
+    <string name="addcream">¿Añadir la crema batida?</string>
+    <string name="choco">Chocolate</string>
+    <string name="cream">crema batida</string>
+    <string name="decrement">No se puede ordenar menos de 1.</string>
+    <string name="increment">No se puede pedir más de 100.</string>
+    <string name="name">nombre</string>
+    <string name="one">1</string>
+    <string name="order">orden</string>
+    <string name="price">precio</string>
+    <string name="quan">cantidad</string>
+    <string name="thankyou">¡Gracias!</string>
+    <string name="topp">Coberturas</string>
+    <string name="total">Total</string>
+</resources>

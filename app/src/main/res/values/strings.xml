@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Just Java</string>
+    <string name="quan">quantity</string>
+    <string name="name">Name</string>
+    <string name="cream">Whipped Cream</string>
+    <string name="choco" translatable="false">Chocolate</string>
+    <string name="topp">Toppings</string>
+    <string name="one" translatable="false">1</string>
+    <string name="price">Price</string>
+    <string name="order">ORDER</string>
+    <string name="increment">Cannot Order More than 100.</string>
+    <string name="decrement">Cannot Order Less than 1.</string>
+    <string name="addcream">Add Whipped Cream?</string>
+    <string name="addchoco">Add Chocolate?</string>
+    <string name="total" translatable="false">Total</string>
+    <string name="thankyou">Thank You!</string>
+
+</resources>
